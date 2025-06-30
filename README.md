@@ -102,8 +102,8 @@ Health Category: Normal weight
 ,
 
 **GitHub:** [https://github.com/Navinprasadgupta
-**LinkedIn:** [https://www.linkedin.com/in/navin-prasad-gupta-b3a382372/ 
----
+
+**LinkedIn:** [https://www.linkedin.com/in/navin-prasad-gupta-b3a382372/
 
 ## 📘 License
 
